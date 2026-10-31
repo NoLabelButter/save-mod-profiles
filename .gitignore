@@ -1,0 +1,28 @@
+# Build output and local game dependencies
+bin/
+obj/
+release/
+artifacts/
+
+# Local packaging, backups, and internal handoff notes
+发版/
+snapshots/
+.agents/
+要求.txt
+踩坑记录.md
+
+# User- or machine-specific files
+*.user
+*.suo
+*.cache
+*.log
+.vs/
+.idea/
+.vscode/
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.zip
+Thumbs.db
+Desktop.ini

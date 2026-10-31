@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Manifest>
+  <ID>save_mod_profiles</ID>
+  <Name>存档模组管理器 Save Mod Profiles</Name>
+  <Author>NoLabel-ButterLab-蝶</Author>
+  <ModVersion>1.0.2</ModVersion>
+  <Description>按存档管理独立模组清单。 Manage independent mod lists per save.</Description>
+  <GameVersions />
+  <Prerequisites />
+  <Assemblies>
+    <Assembly>SaveModProfiles.dll</Assembly>
+  </Assemblies>
+  <Capabilities>
+    <Capability>files</Capability>
+    <Capability>reflection-external</Capability>
+  </Capabilities>
+</Manifest>
